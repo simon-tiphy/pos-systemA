@@ -20,7 +20,7 @@ A robust Point of Sale (POS) system built primarily with JavaScript, react, pyth
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (if using backend components or local development server)
+- [python]
 - Modern web browser
 
 ### Installation
